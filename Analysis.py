@@ -2,7 +2,6 @@ import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
 
-# Create dataset
 data = {
     "Day": np.arange(1, 11),
     "Sales": [200, 220, 250, 270, 300, 280, 260, 500, 290, 310]
